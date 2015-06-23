@@ -10,7 +10,7 @@
 
     <groupId>de.javagl</groupId>
     <artifactId>selection</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.2-SNAPSHOT</version>
 
     <name>selection</name>
     <description>A generic selection model</description>
